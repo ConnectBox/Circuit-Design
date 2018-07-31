@@ -1,0 +1,182 @@
+Info: Reading netlist file "/Users/dorjamjr/Documents/KiCad/NanoPi_Neo_Daughterboard-Ver4/NanoPi_Neo_Daughterboard-Ver4.net".
+
+Info: Using references to match components and footprints.
+
+* Warning: component 'U3': board footprint 'QFN16_3x3', netlist footprint 'PCM13SMTR:QFN16_3x3'
+
+Info: Checking netlist component footprint "BAT1:/599D6655:Molex_53261:Molex_53261".
+
+Info: Checking netlist component footprint "C1:/594173FF:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C2:/594174C7:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C3:/599D6FF1:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C4:/5941538A:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C5:/594153D7:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C6:/599D5964:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C7:/599D595E:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C8:/599D65A5:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C9:/59CA18E9:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C10:/59CA1993:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C11:/59CA14E5:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C12:/59CB13E0:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C13:/59E1AD2B:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C14:/59E1B7F2:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "D1:/59B9EE5D:TO_SOT_Packages_SMD:SOT-23".
+
+Info: Checking netlist component footprint "D2:/59CBA99F:PCM13SMTR:D_SOT-23_914".
+
+Changing component "D2:/59CBA99F" pin "3" net name from "Net-(D2-Pad3)" to "Net-(BAT1-Pad1)".
+
+Info: Checking netlist component footprint "D3:/59CBB407:PCM13SMTR:D_SOT-23_914".
+
+Info: Checking netlist component footprint "D4:/5A606F26:PCM13SMTR:D_SOT-23_914".
+
+Adding new component "D4:/5A606F26" footprint "PCM13SMTR:D_SOT-23_914".
+
+Changing component "D4:/5A606F26" pin "1" net name from "" to "Net-(D4-Pad1)".
+
+Changing component "D4:/5A606F26" pin "3" net name from "" to "Net-(C11-Pad1)".
+
+Info: Checking netlist component footprint "L1:/59414D5D:BOURNS-SDR0403:BOURNS-SDR0403".
+
+Info: Checking netlist component footprint "LED1:/599D63FD:LEDs:LED_0603".
+
+Info: Checking netlist component footprint "LED2:/599DDB2F:LEDs:LED_0603".
+
+Changing component "LED2:/599DDB2F" pin "1" net name from "/GND" to "Net-(LED2-Pad1)".
+
+Info: Checking netlist component footprint "LED3:/59D50093:LEDs:LED_0603".
+
+Info: Checking netlist component footprint "P1:/59D53AFC:PinStrip:PinStrip_12".
+
+Changing component "P1:/59D53AFC" pin "6" net name from "Net-(LED3-Pad1)" to "Net-(LED2-Pad1)".
+
+Changing component "P1:/59D53AFC" pin "11" net name from "Net-(P1-Pad11)" to "Net-(LED3-Pad1)".
+
+Info: Checking netlist component footprint "P2:/59414A14:PinStrip:PinStrip_12".
+
+Info: Checking netlist component footprint "P3:/5941485E:Connectors:USB_A".
+
+Info: Checking netlist component footprint "P4:/594147D3:Connectors_Molex:USB_Micro-B_Molex_47346-0001".
+
+Info: Checking netlist component footprint "P5:/59A01C89:Connectors:USB_A".
+
+Info: Checking netlist component footprint "P6:/59ED30B2:w_pin_strip:pin_socket_3".
+
+Info: Checking netlist component footprint "P7:/59ECA79F:w_pin_strip:pin_socket_4".
+
+Info: Checking netlist component footprint "P8:/59EDB154:w_pin_strip:pin_socket_4".
+
+Info: Checking netlist component footprint "R1:/59414C15:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R2:/5941540E:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R3:/599D633B:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R4:/59CA3A10:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R5:/59CA3AE8:Resistors_SMD:R_0805".
+
+Changing component "R5:/59CA3AE8" pin "1" net name from "Net-(D2-Pad3)" to "Net-(D4-Pad1)".
+
+Changing component "R5:/59CA3AE8" pin "2" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R6:/599DDB29:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R7:/59B9F1E5:Resistors_SMD:R_0805".
+
+Changing component "R7:/59B9F1E5" pin "1" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R8:/59B9F2C4:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R9:/59B9F343:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R10:/59B9F44E:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R11:/59BA4FEA:Resistors_SMD:R_0805".
+
+Changing component "R11:/59BA4FEA" pin "1" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R12:/59CAC860:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R13:/59BA5A43:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R14:/59CACCA7:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R15:/59CA162F:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R16:/59C9E148:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R17:/59C9E1CF:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R18:/59CB1BCB:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R19:/59D4FFE0:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R20:/59D61B69:Resistors_SMD:R_0805".
+
+Changing component "R20:/59D61B69" pin "1" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R21:/59D617F1:Resistors_SMD:R_0805".
+
+Changing component "R21:/59D617F1" pin "1" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R22:/59D73187:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R23:/59D566C5:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R24:/59D5678A:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R25:/59D61F0B:Resistors_SMD:R_0805".
+
+Changing component "R25:/59D61F0B" pin "1" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R26:/59D75669:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R27:/59E2EB79:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R28:/59E2FD56:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R29:/59EB86E2:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R30:/5A60509D:Resistors_SMD:R_0805".
+
+Adding new component "R30:/5A60509D" footprint "Resistors_SMD:R_0805".
+
+Changing component "R30:/5A60509D" pin "1" net name from "" to "Net-(LED2-Pad2)".
+
+Changing component "R30:/5A60509D" pin "2" net name from "" to "Net-(LED2-Pad1)".
+
+Info: Checking netlist component footprint "SW1:/59CA1088:PCM13SMTR:CSS-1210B".
+
+Changing component "SW1:/59CA1088" pin "2" net name from "Net-(C11-Pad1)" to "Net-(BAT1-Pad1)".
+
+Changing component "SW1:/59CA1088" pin "3" net name from "Net-(D2-Pad3)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "U1:/5940868F:TPS63020:QFN14-3X4MM".
+
+Info: Checking netlist component footprint "U2:/599D1C41:21-0113D:21-0113D".
+
+Info: Checking netlist component footprint "U3:/59D7EDAA:PCM13SMTR:QFN16_3x3".
+
+Changing component "U3:/59D7EDAA" pin "1" net name from "Net-(BAT1-Pad1)" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "U4:/59C95C28:PCM13SMTR:FPF1320".
+
+Error: Component 'P4' pad '6' not found in footprint 'Connectors_Molex:USB_Micro-B_Molex_47346-0001'
+
+Error: Component 'P6' pad '1' not found in footprint 'w_pin_strip:pin_socket_3'
+
