@@ -1,0 +1,14 @@
+*FUTURE HAT MODIFICATIONS*
+1. To facilitate quicker testing, we can 3D print out a POGO pin board that can drop down on a HAT and measure the points that we need.
+2. Run the testing points on the board out to a common area that has pads located on it for testing.  This can be on the board itself or even extend over to the rails.
+3. Redesign the switch to use a beefier toggle.  The current one is pretty flimsy and subject to breakage if the user has to open up the case much.
+4. Add in some circuitry to help the OS detect if the HAT is connected to the NEO or not.
+5. Add in silkscreen QA/QC (pass/fail/rework) boxes plus a box for a unit serial number on the board
+6. Jim wants to change a bit of the circuitry around to slow down the battery from discharging over time when idle.
+7. Move Amber LED control pin from PA6 to PA1 allowing Amber to be used for other functions
+8. Move cathode of Green LED to control pin PA6 and add shunt resistor around Green LED to make it multi functional (power indicator, battery indicator, NEO “boot complete” indicator).
+
+Added benefit of that last item… It occurred to me that the in the current implementation, the amber is essentially doing the work of the green, plus, since it doesn’t come on until the NEO is about ready to do connectbox work, it is a “boot complete” indicator.
+
+9. Restore the On/Off switch signalling to NEO (PG6).
+10. Move OLED connections to HAT to place OLED somewhere above U3 (with clearance for microUSB). Possibly shift NEO left by 2mm. (Do this by adding 2mm to right side of board and removing 2mm on left side of board. Remember to move mounting holes by same amount.)

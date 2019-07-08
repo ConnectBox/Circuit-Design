@@ -1,0 +1,284 @@
+Info: Checking netlist symbol footprint “R17:/5BD3ED2A:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “U5:/5BD2320C:CustomComponents:F12ASUM13-W2”.
+
+Info: Checking netlist symbol footprint “U4:/5BC77705:CustomComponents:HC-R8812AU2”.
+
+Info: Checking netlist symbol footprint “U3:/5ADA67B3:CustomComponents:SOT-23-6a”.
+
+Info: Checking netlist symbol footprint “U2:/5AC3C9AA:CustomComponents:SOT-23-6a”.
+
+Info: Checking netlist symbol footprint “BAT1:/5BD4CBE6:”.
+
+Info: Checking netlist symbol footprint “U1:/5AD88D58:CustomComponents:UQFN-48-1EP_6x6mm_Pitch0.4mm_75”.
+
+Info: Changing component path “BAT1:/599D6655” to “/5BD4CBE6”.
+
+Info: Checking netlist symbol footprint “C1:/599D595E:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C2:/5AC44587:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C3:/5AC5B66E:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C4:/594173FF:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C5:/5AC5AAFF:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C6:/5AC56FDB:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C7:/5941538A:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C8:/594153D7:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C9:/5AC58053:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C10:/5AD8D2ED:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C11:/5AD8DA33:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C12:/5AD8DB26:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C13:/5AD8E5C8:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C14:/5AFE0547:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “C15:/5BD33611:Capacitors_SMD:C_0805”.
+
+Info: Checking netlist symbol footprint “D1:/5AC3CA5C:CustomComponents:SOD-123FL”.
+
+Info: Checking netlist symbol footprint “L1:/5BD4BE60:CustomComponents:INDUCTOR_SMD_6x6-1”.
+
+Info: Changing component path “L1:/5AC42BF6” to “/5BD4BE60”.
+
+Info: Checking netlist symbol footprint “L2:/5BD4C8BB:CustomComponents:INDUCTOR_SMD_6x6-1”.
+
+Info: Changing component path “L2:/5AC3CD18” to “/5BD4C8BB”.
+
+Info: Checking netlist symbol footprint “LED1:/599D63FD:LEDs:LED_0603”.
+
+Info: Checking netlist symbol footprint “LED2:/5BCFF486:LEDs:LED_0603”.
+
+Info: Checking netlist symbol footprint “LED3:/5A9DF221:LEDs:LED_0603”.
+
+Info: Checking netlist symbol footprint “P1:/5BDC1D99:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical”.
+
+Info: Checking netlist symbol footprint “SW1:/5A668F1E:CustomComponents:SPDT-OS10211”.
+
+Info: Changing component path “P1:/5BD40B11” to “/5BDC1D99”.
+
+Info: Checking netlist symbol footprint “P2:/5BDA9D78:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical”.
+
+Info: Checking netlist symbol footprint “R27:/5AC3CDDD:Resistors_SMD:R_0805”.
+
+Info: Changing component path “P2:/5BD012AE” to “/5BDA9D78”.
+
+Info: Checking netlist symbol footprint “R26:/5AC3C743:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R23:/5AC591DA:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “P3:/5BD4D503:CustomComponents:USB_A”.
+
+Info: Checking netlist symbol footprint “R22:/5A9DF153:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R20:/5AC523AC:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R19:/5AC54843:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R18:/5AC54A47:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R16:/5BD3EA54:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R11:/5BCFF115:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “P4:/5BD4B782:CustomComponents:USB_Micro-B_Molex_47346-0001”.
+
+Info: Checking netlist symbol footprint “R10:/5BCFF1C5:Resistors_SMD:R_0805”.
+
+Info: Changing component path “P4:/594147D3” to “/5BD4B782”.
+
+Info: Checking netlist symbol footprint “R8:/5AC468A7:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R7:/5AC44FD0:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R4:/599D633B:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “R3:/5AECAF56:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “P6:/5BDDA01C:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical”.
+
+Info: Checking netlist symbol footprint “R2:/5AC426BF:Resistors_SMD:R_0805”.
+
+Info: Changing component path “P6:/5BC6AC15” to “/5BDDA01C”.
+
+Info: Checking netlist symbol footprint “R1:/5ADA7D9B:Resistors_SMD:R_0805”.
+
+Info: Checking netlist symbol footprint “P7:/5BDF2DA0:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical”.
+
+Info: Checking netlist symbol footprint “PB2:/5BD3E896:CustomComponents:SW-TL3305”.
+
+Info: Changing component path “P7:/5BD3C1C3” to “/5BDF2DA0”.
+
+Info: Checking netlist symbol footprint “PB1:/5BD3CDE5:CustomComponents:SW-TL3305”.
+
+Changing footprint “P7:/5BD3C1C3” value from “CONN_01X04” to “Conn_01x04”.
+
+Changing footprint “P6:/5BDDA01C” pad “4” net name from “” to “Net-(P6-Pad4)”.
+
+Changing footprint “P6:/5BC6AC15” value from “CONN_01X05” to “Conn_01x05”.
+
+Changing footprint “P4:/5BD4B782” pad “6” net name from “” to “Net-(P4-Pad6)”.
+
+Changing footprint “P4:/5BD4B782” pad “4” net name from “” to “Net-(P4-Pad4)”.
+
+Changing footprint “P4:/5BD4B782” pad “3” net name from “” to “Net-(P4-Pad3)”.
+
+Changing footprint “P4:/5BD4B782” pad “2” net name from “” to “Net-(P4-Pad2)”.
+
+Changing footprint “P4:/594147D3” value from “MICROUSB - Power” to “USB_OTG-1”.
+
+Changing footprint “P3:/5BD4D503” pad “5” net name from “” to “Net-(P3-Pad5)”.
+
+Changing footprint “P3:/5BD4D503” pad “1” net name from “” to “/5V_OUT”.
+
+Remove single pad net “Net-(U5-Pad7)” on “U5” pad “7”
+
+Changing footprint “P3:/5BD4D503” pad “2” net name from “” to “Net-(P2-Pad5)”.
+
+Changing footprint “P3:/5BD4D503” pad “3” net name from “” to “Net-(P2-Pad4)”.
+
+Changing footprint “P3:/5BD4D503” pad “4” net name from “” to “/GND”.
+
+Adding new symbol “P3:/5BD4D503” footprint “CustomComponents:USB_A”.
+
+Changing footprint “P2:/5BDA9D78” pad “5” net name from “/5V_OUT” to “Net-(P2-Pad5)”.
+
+Changing footprint “P2:/5BDA9D78” pad “1” net name from “Net-(P2-Pad1)” to “/5V_OUT”.
+
+Changing footprint “P2:/5BD012AE” value from “CONN_01X05” to “Conn_01x05”.
+
+Changing footprint “P1:/5BD40B11” value from “CONN_01X08” to “Conn_01x08”.
+
+Changing footprint “BAT1:/599D6655” value from “Battery” to “Battery_multi_cell”.
+
+Changing footprint “U1:/5AD88D58” pad “3” net name from “” to “Net-(U1-Pad3)”.
+
+Changing footprint “U1:/5AD88D58” pad “5” net name from “” to “Net-(U1-Pad5)”.
+
+Changing footprint “U1:/5AD88D58” pad “7” net name from “” to “Net-(U1-Pad7)”.
+
+Changing footprint “U1:/5AD88D58” pad “8” net name from “” to “Net-(U1-Pad8)”.
+
+Changing footprint “U1:/5AD88D58” pad “10” net name from “” to “Net-(U1-Pad10)”.
+
+Changing footprint “U1:/5AD88D58” pad “14” net name from “” to “Net-(U1-Pad14)”.
+
+Changing footprint “U1:/5AD88D58” pad “15” net name from “” to “Net-(U1-Pad15)”.
+
+Changing footprint “U1:/5AD88D58” pad “17” net name from “” to “Net-(U1-Pad17)”.
+
+Changing footprint “U1:/5AD88D58” pad “18” net name from “” to “Net-(U1-Pad18)”.
+
+Changing footprint “U1:/5AD88D58” pad “19” net name from “” to “Net-(U1-Pad19)”.
+
+Changing footprint “U1:/5AD88D58” pad “25” net name from “” to “Net-(U1-Pad25)”.
+
+Changing footprint “U1:/5AD88D58” pad “28” net name from “” to “Net-(U1-Pad28)”.
+
+Changing footprint “U1:/5AD88D58” pad “29” net name from “” to “Net-(U1-Pad29)”.
+
+Changing footprint “U1:/5AD88D58” pad “30” net name from “” to “Net-(U1-Pad30)”.
+
+Changing footprint “U1:/5AD88D58” pad “31” net name from “” to “Net-(U1-Pad31)”.
+
+Changing footprint “U1:/5AD88D58” pad “47” net name from “” to “Net-(U1-Pad47)”.
+
+Changing footprint “U1:/5AD88D58” pad “48” net name from “” to “Net-(U1-Pad48)”.
+
+Remove single pad net “Net-(U5-Pad12)” on “U5” pad “12”
+
+Changing footprint “U2:/5AC3C9AA” pad “6” net name from “” to “Net-(U2-Pad6)”.
+
+Remove single pad net “Net-(U4-Pad11)” on “U4” pad “11”
+
+Changing footprint “U3:/5ADA67B3” pad “4” net name from “” to “Net-(U3-Pad4)”.
+
+Remove single pad net “Net-(U4-Pad8)” on “U4” pad “8”
+
+Changing footprint “U4:/5BC77705” pad “6” net name from “” to “Net-(U4-Pad6)”.
+
+Changing footprint “U4:/5BC77705” pad “4” net name from “Net-(P2-Pad4)” to “Net-(P2-Pad2)”.
+
+Changing footprint “U4:/5BC77705” pad “8” net name from “” to “Net-(U4-Pad8)”.
+
+Changing footprint “U4:/5BC77705” pad “11” net name from “” to “Net-(U4-Pad11)”.
+
+Remove single pad net “Net-(U4-Pad6)” on “U4” pad “6”
+
+Changing footprint “U5:/5BD2320C” pad “9” net name from “Net-(P2-Pad4)” to “Net-(P2-Pad2)”.
+
+Changing footprint “U5:/5BD2320C” pad “12” net name from “” to “Net-(U5-Pad12)”.
+
+Changing footprint “U5:/5BD2320C” pad “7” net name from “” to “Net-(U5-Pad7)”.
+
+Remove single pad net “Net-(P2-Pad1)” on “P5” pad “2”
+
+Remove single pad net “Net-(P3-Pad5)” on “P3” pad “5”
+
+Remove single pad net “Net-(P4-Pad2)” on “P4” pad “2”
+
+Remove single pad net “Net-(P4-Pad3)” on “P4” pad “3”
+
+Remove single pad net “Net-(P4-Pad4)” on “P4” pad “4”
+
+Remove single pad net “Net-(P4-Pad6)” on “P4” pad “6”
+
+Remove single pad net “Net-(P6-Pad4)” on “P6” pad “4”
+
+Remove single pad net “Net-(U1-Pad3)” on “U1” pad “3”
+
+Remove single pad net “Net-(U1-Pad5)” on “U1” pad “5”
+
+Remove single pad net “Net-(U1-Pad7)” on “U1” pad “7”
+
+Remove single pad net “Net-(U1-Pad8)” on “U1” pad “8”
+
+Remove single pad net “Net-(U1-Pad10)” on “U1” pad “10”
+
+Remove single pad net “Net-(U1-Pad14)” on “U1” pad “14”
+
+Remove single pad net “Net-(U1-Pad15)” on “U1” pad “15”
+
+Remove single pad net “Net-(U1-Pad17)” on “U1” pad “17”
+
+Remove single pad net “Net-(U1-Pad18)” on “U1” pad “18”
+
+Remove single pad net “Net-(U1-Pad19)” on “U1” pad “19”
+
+Remove single pad net “Net-(U1-Pad25)” on “U1” pad “25”
+
+Remove single pad net “Net-(U1-Pad28)” on “U1” pad “28”
+
+Remove single pad net “Net-(U1-Pad29)” on “U1” pad “29”
+
+Remove single pad net “Net-(U1-Pad30)” on “U1” pad “30”
+
+Remove single pad net “Net-(U1-Pad31)” on “U1” pad “31”
+
+Remove single pad net “Net-(U1-Pad47)” on “U1” pad “47”
+
+Remove single pad net “Net-(U1-Pad48)” on “U1” pad “48”
+
+Remove single pad net “Net-(U2-Pad6)” on “U2” pad “6”
+
+Remove single pad net “Net-(U3-Pad4)” on “U3” pad “4”
+
+Warning: Footprint of symbol “P2” changed: board footprint “Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm”, netlist footprint “Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical”
+
+Warning: Footprint of symbol “P6” changed: board footprint “Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm”, netlist footprint “Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical”
+
+Warning: Footprint of symbol “P7” changed: board footprint “CustomComponents:OLED”, netlist footprint “Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical”
+
+Warning: Footprint of symbol “P1” changed: board footprint “Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm”, netlist footprint “Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical”
+
+Error: No footprint defined for symbol “BAT1”.
+
