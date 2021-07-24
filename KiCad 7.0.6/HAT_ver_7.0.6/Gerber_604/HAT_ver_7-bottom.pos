@@ -1,0 +1,7 @@
+### Module positions - created on Mon Jul 12 09:00:48 2021 ###
+### Printed by Pcbnew version (5.99.0-10509-g065f85b504)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                PosX       PosY       Rot  Side
+P8        Conn_01x06  SFW6R-1STE1LF     -182.3100  -102.5800  -90.0000  bottom
+## End
