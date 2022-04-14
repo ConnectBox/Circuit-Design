@@ -1,0 +1,40 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 32340f04-9850-4e70-81c3-3f2a60baa4da)
+
+  (paper "B")
+
+  (title_block
+    (title "ConnectBox CM4 for China Case")
+    (date "2022-04-07")
+    (rev "1.8.3")
+    (comment 1 "JRA")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Orders" (at 172.72 26.67 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid 2fc88a4c-80cb-4eae-b572-6ec6a997f1f3)
+  )
+  (text "BOM Generation:\nUse the following for the path to python3:\n/Applications/KiCad/KiCad.app/Contents/Frameworks/Python.framework/Versions/3.8/bin/python3\n\nOpen the BOM dialog, choose the bom, in the bottom window just \npaste in the above path in place of the listed path to python3\n\nClick OK "
+    (at 125.73 140.97 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 487b3731-2814-472d-8c7b-79cb631f857a)
+  )
+  (text "Version 1.8.1\nFirst layout for the China CM4 case by RelayTrust. This design\nis based on the 2 board solution of 1.7.4 but wrapped into a \nsingle, 6 layer, dual sided board.\n\nVersion 1.8.2\nUpdate of 1.8.1 with corrections to the following:\n- Push buttons were on the wrong side of the board\n- Locations of battery minus teerminals were incorrect\n- Traces of battery minus connections were insufficient to\n  carry the required current\n- USB-C cannot be easily used for communication so is now \n  strictly a power port (simplifying usb circuitry)\n- Added back the ethernet jack formerly removed because of\n  space considerations\n- Move location of J4 back slightly to align front of \n  connector with edge of board\n- Change board text of LED5 & LED8 to indicate correct colors\n\n \nVersion 1.8.3\nUpdate of 1.8.2 with modified ATTiny88 functionality\n- Fix error of ATTiny88 GND (s.b. to PWR_GND)\n- ATTiny88 always powered (via direct connect to battery +)\n- PB1 sensed by ATTiny88 for turn on/off (rather than AXP209)\n  to give better control\n- Change value of R7 to 10K to ensure battery 1 selection\n- Move U6 away from OLED for better clearance\n\n "
+    (at 22.86 126.365 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid abd5b1f8-417b-4e4b-bb91-50def48c6e7b)
+  )
+  (text "Revision History" (at 21.59 25.4 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid d6084006-8990-4dc9-82cd-cf5351710d50)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
