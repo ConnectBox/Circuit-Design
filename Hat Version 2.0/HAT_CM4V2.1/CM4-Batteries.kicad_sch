@@ -6,8 +6,8 @@
 
   (title_block
     (title "ConnectBox CM4 for China Case")
-    (date "2022-04-07")
-    (rev "1.8.3")
+    (date "2022-03-18")
+    (rev "1.8.2")
     (comment 1 "JRA")
   )
 
@@ -81,7 +81,7 @@
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 16978191-1f8f-4bf8-a148-48b86a173f39)
   )
-  (hierarchical_label "BATT+" (shape output) (at 119.38 74.93 180)
+  (hierarchical_label "BAT+" (shape output) (at 119.38 74.93 180)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 1ed9442a-ae06-4f43-bd0e-1f6c1a5945e2)
   )

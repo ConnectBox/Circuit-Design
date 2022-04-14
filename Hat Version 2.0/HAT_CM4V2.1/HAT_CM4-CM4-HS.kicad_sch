@@ -6,8 +6,8 @@
 
   (title_block
     (title "ConnectBox CM4 for China Case")
-    (date "2022-04-07")
-    (rev "1.8.3")
+    (date "2022-03-18")
+    (rev "1.8.2")
     (comment 1 "JRA")
   )
 
@@ -1346,7 +1346,6 @@
 
   (no_connect (at 85.09 60.96) (uuid 45926ae8-5100-4750-8763-e2e9ae2575ef))
   (no_connect (at 248.92 171.45) (uuid 7655e69c-e6b8-42da-84c1-a30762057132))
-  (no_connect (at 152.4 55.88) (uuid 766950c2-990e-4939-922e-0d1e571970dc))
   (no_connect (at 85.09 58.42) (uuid a03496a7-7359-4001-ab83-45c7ed0fd20f))
   (no_connect (at 243.84 204.47) (uuid a87ca25b-1c41-4f6c-b2b8-45bc480246ff))
 
@@ -2319,6 +2318,10 @@
   (hierarchical_label "USB2_N" (shape bidirectional) (at 152.4 58.42 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9c2f49bc-d6a8-41f8-9bd0-38180df26c2d)
+  )
+  (hierarchical_label "USBOTG_ID" (shape input) (at 152.4 55.88 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f46c2a98-1cd2-4afd-975e-0d3e5e531c22)
   )
 
   (symbol (lib_id "Device:R") (at 210.82 204.47 270) (unit 1)
