@@ -1,0 +1,67 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 0f8196a1-4a7e-444e-81bd-b99414ad8e91)
+
+  (paper "USLedger")
+
+  (title_block
+    (title "ConnectBox HAT 8")
+    (date "2023-04-13")
+    (rev "8.0.0")
+    (company "ConnectBox")
+    (comment 1 "JRA")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Rev 7.0.6 - \n-  Add U5 back into circuit (alt to U4)\n-  Move P5, Q1, R3 and JP2 to accomodate U5\n"
+    (at 21.59 186.69 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 07c779b6-aeaf-4559-8e8c-175abfbac146)
+  )
+  (text "Rev 8.0.0 - \n-  Make batteries removable\n-  Use circuit from CM4 battery board to protect against battery reversal\n"
+    (at 20.955 212.725 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 30f3c0d2-02ed-4422-8260-9db27d8bd7b9)
+  )
+  (text "TO DETERMINE BOARD PEDIGREE (from cli.py):\n- Is PA6 HIGH? \n      Y => HAT connected; L => no HAT\n- Is AXP209 present (via i2c)? \n      Y => Q3Y2018 or later; \n            Is PA1 HIGH (with NEO soft pull low on PA1)? \n                     Y => Q3Y2018, N => Q4Y2018\n      N => (test for display)\n             Is OLED present (via i2c)? \n                      Y => Q4Y2019; N => Q1Y2018"
+    (at 170.18 69.85 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 476a3c39-b166-421e-9ebe-c515b4c021c9)
+  )
+  (text "Rev 7.0.7 - \n-  Make connections for U4 smd (aid soder in castellations\n    and fix connections which were dependent of the thru-holes\n"
+    (at 20.32 198.12 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 4dc14e10-c122-4375-aa41-1c377b5e7cf8)
+  )
+  (text "Rev 7.0.4 - \n   - Fix missing mounting slots (2) and hole (1)\n   - Move R3 to non-hole location\n   - Cut IRQ from AXP209 pin 48 and use anode of D2\n     to feed junction of R5 / R9\n   - Add locating pins to footprint of USB-C (P4)\n   - Move P5 to clear antenna connector on WiFi board\n   - Move USB-C to extend through case\n   - Remove R13\n\n"
+    (at 22.86 161.29 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 6008ac12-4935-4540-a396-0facd3797577)
+  )
+  (text "Rev 5.0.1 - Remove PG8 control of U4; swap pins of Bat1 footprint\nRev 5.0.2 - Add physical connection to unused pins of U5\nRev 5.0.4 - Add connection from AXP209 (pin 48) to P1-8 (IRQ to NEO)\nRev 5.0.5 - Add C16 (noise filter for IRQ)\nRev 5.0.6 - Add time delay from AXP209 to FET Switch; add test points\nRev 5.0.7 - Add R12 pull down on PG11 to set pedigree\nRev 5.08 - Mounting holes went missing in 5.0.7, added back in 5.0.8\nRev 5.0.9 - Change P4 to TH mount, SMD electrical; changes layout only\nRev 6.0.1 - Change to dual purpose (batttery or no battery) layout\nRev 6.0.2 - Abandon dual purpose; add notch in board to clear \n                   SD card guide in case; add C18 (noise for batteryless)\nRev 6.0.3 - move PB’s up 1.0 mm to center under top cover features\nRev 6.04 - move L2 left by 2.0mm, up by 1.5mm to give more battery clearance; \n                 bigger wifi pads to improve reverse side soldering\n"
+    (at 21.59 82.55 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid 9fa0cb85-68cc-4d31-97c1-1d147d02d8a1)
+  )
+  (text "Rev 7.0.3 - 25 proto boards ordered to this rev" (at 22.86 127 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid a1c18000-d6a2-41c9-ba0f-8d2de8d62604)
+  )
+  (text "Rev 7.0.5 - \n-  Add jumper feature to make OTG normal (remove Q1 and R3;\n   jumper around pins 1-3)\n-  Fix footprint of P4 (USB-C)\n"
+    (at 21.59 172.72 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid a1f8d453-9853-405e-b01f-71c637eb0c7b)
+  )
+  (text "Rev 7.0.2 - Enhanced version of Rev 6 with the following additions:\n   - Cutout in HAT to allow use of small USB WiFi dongle for \n     another channel\n   - Remove On/Off switch and add circuitry to use PB1 long push\n     as On/Off function\n   - Add connector for flex from NEO carrying USB-OTG signals\n   - Change charger port from micro USB to USB-C\n   - Change P6 from 5 pin to 12 pin for access to NEO SPI signals\n   - Add flex connector carrying NEO SPI signals to allow for\n     addition of flex circuit containing Dpread Spectry Lora module\n   - Add R14 pull down to signal PA3 to identify Rev 7 board"
+    (at 21.59 120.65 0)
+    (effects (font (size 1.778 1.778)) (justify left bottom))
+    (uuid a69c9054-349d-4de0-8afd-b62a5936d9fb)
+  )
+  (text "Revision History" (at 21.59 25.4 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid d2c5fc6f-4870-4c36-8679-a39791459046)
+  )
+)
